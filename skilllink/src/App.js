@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>이제 시작입니다. 스킬링크</h1>
+        <p>테스트용 </p>
       </header>
     </div>
   );
