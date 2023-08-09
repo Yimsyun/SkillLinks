@@ -40,7 +40,7 @@ export default function Header() {
               spacing={{ xs: 1 }}
               justifyContent="flex-end"
             >
-              <Button variant="text">전문가 등록</Button>
+              <Button variant="text"> 등록</Button>
               <Button variant="text">로그인</Button>
               <Button variant="contained">무료 회원가입</Button>
             </Stack>
@@ -57,7 +57,7 @@ export default function Header() {
           <Grid xs={5}>
             <Stack direction="row" spacing={2} justifyContent="space-around">
               <Link href="/category/design" underline="hover">
-                Prime
+                스킬링크
               </Link>
               <Link href="#" underline="hover">
                 {"엔터프라이즈"}
@@ -75,7 +75,7 @@ export default function Header() {
             alignItems="center"
           >
             <Link href="#" underline="hover">
-              원하는 서비스를 못 찾겠다면, 프로젝트 의뢰하세요!
+              필요한 인재를 찾으세요
             </Link>
           </Grid>
         </Grid>
