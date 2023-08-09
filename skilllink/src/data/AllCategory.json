@@ -1,0 +1,36 @@
+{
+  "Allcategory": [
+    {
+      "AllCategoryLabel": "회계",
+      "idx": "1"
+    },
+    {
+      "AllCategoryLabel": "급여",
+      "idx": "2"
+    },
+    {
+      "AllCategoryLabel": "총무",
+      "idx": "3"
+    },
+    {
+      "AllCategoryLabel": "전산",
+      "idx": "4"
+    },
+    {
+      "AllCategoryLabel": "연구",
+      "idx": "5"
+    },
+    {
+      "AllCategoryLabel": "재무",
+      "idx": "6"
+    },
+    {
+      "AllCategoryLabel": "자금",
+      "idx": "7"
+    },
+    {
+      "AllCategoryLabel": "인사",
+      "idx": "8"
+    }
+  ]
+}

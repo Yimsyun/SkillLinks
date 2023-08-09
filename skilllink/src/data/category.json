@@ -1,0 +1,72 @@
+[
+  {
+    "label": "디자인",
+    "categoryId": "design",
+    "subCategory": [
+      {
+        "label": "로고·브랜딩",
+        "category": [
+          { "label": "로고디자인", "categoryId": "logo" },
+          { "label": "브랜드 디자인·가이드", "categoryId": 33 }
+        ]
+      },
+      {
+        "label": "인쇄·홍보물",
+        "category": [
+          { "label": "명함", "categoryId": 33 },
+          { "label": "전단지·포스터·인쇄물", "categoryId": 33 },
+          { "label": "현수막·X배너", "categoryId": 33 }
+        ]
+      },
+      {
+        "label": "패키지·커버",
+        "category": [
+          { "label": "로고 디자인", "categoryId": 33 },
+          { "label": "브랜드 디자인·가이드", "categoryId": 33 }
+        ]
+      },
+      {
+        "label": "웹·모바일 디자인",
+        "category": [
+          { "label": "로고 디자인", "categoryId": 33 },
+          { "label": "브랜드 디자인·가이드", "categoryId": 33 }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "커머스",
+    "categoryId": "commerce",
+    "subCategory": [
+      {
+        "label": "당근마켓",
+        "category": [
+          { "label": "로고디자인", "categoryId": "logo" },
+          { "label": "브랜드 디자인·가이드", "categoryId": "guide" }
+        ]
+      },
+      {
+        "label": "옥션",
+        "category": [
+          { "label": "명함", "categoryId": 33 },
+          { "label": "전단지·포스터·인쇄물", "categoryId": 33 },
+          { "label": "현수막·X배너", "categoryId": 33 }
+        ]
+      },
+      {
+        "label": "쿠팡",
+        "category": [
+          { "label": "로고 디자인", "categoryId": 33 },
+          { "label": "브랜드 디자인·가이드", "categoryId": 33 }
+        ]
+      },
+      {
+        "label": "웹·모바일 디자인",
+        "category": [
+          { "label": "로고 디자인", "categoryId": 33 },
+          { "label": "브랜드 디자인·가이드", "categoryId": 33 }
+        ]
+      }
+    ]
+  }
+]
